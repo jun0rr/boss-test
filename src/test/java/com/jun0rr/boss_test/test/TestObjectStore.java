@@ -2,12 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.jun0rr.boss.test.test;
+package com.jun0rr.boss_test.test;
 
 import com.jun0rr.boss.ObjectStore;
 import com.jun0rr.boss.Stored;
-import com.jun0rr.boss.test.Address;
-import com.jun0rr.boss.test.Person;
+import com.jun0rr.boss_test.Address;
+import com.jun0rr.boss_test.Person;
 import java.time.LocalDate;
 import java.util.LinkedList;
 import java.util.List;
